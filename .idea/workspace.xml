@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f38a7bac-f581-4b52-baa9-7b54c86a107c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/areaofcir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/input0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/input1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/leetcode1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/triangle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/assignments/triangle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/areacir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/draft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/maxmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/maxmin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/oddeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/prime2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/product2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/sum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/assignments/functions/voteage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditionals/input1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/areaofcir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/areaofcir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/input0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/input0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/input1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/leetcode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/leetcode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/triangle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/triangle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/assignments/triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditionals/triangle2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +57,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/fyzan/OneDrive/Desktop/Assignments&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="conditionals" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

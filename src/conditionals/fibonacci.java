@@ -1,4 +1,4 @@
-package com.assignments;
+package conditionals;
 
 import java.util.Scanner;
 
